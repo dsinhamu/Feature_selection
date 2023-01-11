@@ -18,3 +18,5 @@ Refer MATLAB page where unsupervised FS has been implemented: https://www.mathwo
 ## CRAN project : R Documentation
 Unsupervised Spectral Feature Selection: https://search.r-project.org/CRAN/refmans/Rdimtools/html/feature_SPECU.html
 Unsupervised Discriminative Features Selection : https://search.r-project.org/CRAN/refmans/Rdimtools/html/feature_UDFS.html
+Unsupervised Graph-based Feature Selection : https://search.r-project.org/CRAN/refmans/Rdimtools/html/feature_UGFS.html
+Structure Preserving Unsupervised Feature Selection : https://search.r-project.org/CRAN/refmans/Rdimtools/html/feature_SPUFS.html
